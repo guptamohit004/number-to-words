@@ -23,7 +23,7 @@ numberToWord();
 
 ### CLI
 
-Alternatively, you can use it directly from the CLI by using `deno run cli.ts`:
+Alternatively, you can use it directly from the CLI by using `deno run https://deno.land/x/number_to_words/cli.ts 22`:
 
 ## 👩‍💻 Development
 
