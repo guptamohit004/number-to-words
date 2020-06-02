@@ -1,4 +1,4 @@
-# 🌐 Convert a Number to Words for Currency.
+ # 🌐 Convert a Number to Words for Currency.
 
 Convert a Number to Words for Currency using DENO.
 
@@ -23,7 +23,7 @@ numberToWord();
 
 ### CLI
 
-Alternatively, you can use it directly from the CLI by using `deno run cli.ts`:
+Alternatively, you can use it directly from the CLI by using `deno run cli.ts 121`:
 
 ## 👩‍💻 Development
 
