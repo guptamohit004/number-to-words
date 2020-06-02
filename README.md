@@ -1,15 +1,15 @@
- # 🌐 Convert a Number to Words for Currency.
+# 🌐 Convert a Number to Words.
 
-Convert a Number to Words for Currency using DENO.
+Convert a Number to Words  using DENO.
 
-[![Test CI](https://github.com/denorg/get-ip/workflows/Deno%20CI/badge.svg)](https://github.com/guptamohit004/number-to-words/actions)
+[![Test CI](https://github.com/denorg/get-ip/workflows/Deno%20CI/badge.svg)](https://github.com/guptamohit004/number_to_words/actions)
 
 ## ⭐ Getting started
 
-Import the `numberToWords` function and use it:
+Import the `convertTime` function and use it:
 
 ```js
-import { numberToWords } from "https://deno.land/x/number-to-words/mod.js";
+import { numberToWords } from "https://deno.land/x/number_to_words/mod.js";
 
 const numberToWord = async () => {
     var numbertoword=await numberToWords(32111);
@@ -23,7 +23,7 @@ numberToWord();
 
 ### CLI
 
-Alternatively, you can use it directly from the CLI by using `deno run cli.ts 121`:
+Alternatively, you can use it directly from the CLI by using `deno run cli.ts`:
 
 ## 👩‍💻 Development
 
