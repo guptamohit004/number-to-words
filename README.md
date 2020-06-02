@@ -6,7 +6,7 @@ Convert a Number to Words  using DENO.
 
 ## ⭐ Getting started
 
-Import the `convertTime` function and use it:
+Import the `numberToWords ` function and use it:
 
 ```js
 import { numberToWords } from "https://deno.land/x/number_to_words/mod.js";
